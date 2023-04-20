@@ -1,0 +1,15 @@
+1) The TS Type System
+- Helps us catch errors during development
+- Uses 'type annotations' to analyse our code
+- Only active during development
+- Does't provide any performance optimization
+
+TS Execution Flow
+TypeScript Code -> TypeScript Compiler -> Plain Old JS
+
+Summary:
+- Writing TypeScript is the same as writing     JavaScript with some 'extra documentation'
+
+- TypeScript has no effect on how our code get executed by the browser or Node
+
+- It is best to think TypeScript as being like a friend setting behind you while you are coding
